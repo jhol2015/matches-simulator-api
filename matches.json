@@ -3,17 +3,17 @@
     "descricao" : "Eliminatórias Copa 2022",
     "local" : {
       "nome" : "Maracanã",
-      "imagem" : "TODO"
+      "imagem" : "https://s3.static.brasilescola.uol.com.br/img/2019/12/estadio-maracana-novo.jpg"
     },
     "mandante" : {
       "nome" : "Brasil",
       "forca" : 5,
-      "imagem" : "Todo"
+      "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante" : {
       "nome" : "Argentina",
       "forca" : 4,
-      "imagem" : "Todo"
+      "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   }
 ]
