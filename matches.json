@@ -30,9 +30,10 @@
     "visitante" : {
       "nome" : "Inglaterra",
       "forca" : 4,
-      "imagem" : "https://www.bandeirasnacionais.com/data/flags/w580/gb.webp"
-    },
-    {
+      "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/gb.png"
+    }
+   },
+   {
     "descricao" : "Eliminatórias Copa 2022",
     "local" : {
       "nome" : "Le Parc des Princes",
@@ -41,14 +42,15 @@
     "mandante" : {
       "nome" : "França",
       "forca" : 3.5,
-      "imagem" : "https://www.bandeirasnacionais.com/data/flags/w580/fr.webp"
+      "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/fr.png"
     },
     "visitante" : {
       "nome" : "Itália",
       "forca" : 4,
-      "imagem" : "https://www.bandeirasnacionais.com/data/flags/w580/it.webp"
-    },
-    {
+      "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
+    }
+   },
+   {
     "descricao" : "Eliminatórias Copa 2022",
     "local" : {
       "nome" : "Toyota Sutajiamu",
@@ -57,12 +59,12 @@
     "mandante" : {
       "nome" : "Japão",
       "forca" : 3.5,
-      "imagem" : "https://www.bandeirasnacionais.com/data/flags/w580/jp.webp"
+      "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/jp.png"
     },
     "visitante" : {
       "nome" : "México",
       "forca" : 4,
-      "imagem" : "https://www.bandeirasnacionais.com/data/flags/w580/mx.webp"
+      "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/mx.png"
     }
   }
 ]
