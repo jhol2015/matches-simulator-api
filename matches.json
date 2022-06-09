@@ -49,22 +49,5 @@
       "forca" : 4,
       "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
     }
-   },
-   {
-    "descricao" : "Eliminatórias Copa 2022",
-    "local" : {
-      "nome" : "Toyota Sutajiamu",
-      "imagem" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Toyota_sta_0313_2.JPG/250px-Toyota_sta_0313_2.JPG"
-    },
-    "mandante" : {
-      "nome" : "Japão",
-      "forca" : 3.5,
-      "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/jp.png"
-    },
-    "visitante" : {
-      "nome" : "México",
-      "forca" : 4,
-      "imagem" : "https://www.bandeirasnacionais.com/data/flags/normal/mx.png"
-    }
   }
 ]
